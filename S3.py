@@ -102,8 +102,8 @@ def slow_print(text, delay=0.1):
 slow_print("\x1b[1;31m 🚫 This is a licensed private tool registered to one (1) device only.", delay=0.01)
 slow_print("\x1b[1;31m 📜 Unauthorized distribution, resale, or sharing is strictly prohibited.", delay=0.01)
 slow_print("\x1b[1;31m 🔒 Violations will result in permanent deactivation by the Boost Bayan Security System.", delay=0.01)
-slow_print("\x1b[1;31m 🆔 Registered License ID: DSE26P0L7DQ", delay=0.02)
-slow_print("\x1b[1;31m ⏳ Verifying license and initializing system...", delay=0.02)
+slow_print("\x1b[1;31m 🆔 Registered License ID: BBPH-E26P0L7DQ", delay=0.01)
+slow_print("\x1b[1;31m ⏳ Verifying license and initializing system...", delay=0.01)
 
 
 import re
@@ -6416,3 +6416,4 @@ if __name__ == "__main__":
     
     
     
+
